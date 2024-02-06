@@ -1,0 +1,23 @@
+.section-one {
+  background-color: var(--blackPrimary);
+}
+
+.section-one > h2 {
+  font-weight: 600;
+}
+
+.section-two {
+  background-color: var(--blackSecondary);
+}
+
+.home {
+  color: #fff !important;
+  height: 100vh;
+}
+.section {
+  transition: transform 1s ease-in-out;
+}
+.header {
+  font-size: 14px;
+  font-weight: 600;
+}

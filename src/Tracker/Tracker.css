@@ -1,0 +1,14 @@
+.status {
+  font-weight: 300;
+  font-size: 13px;
+}
+.tracker {
+  border-top: solid 1px #343434;
+  border-right: none;
+  box-sizing: border-box;
+}
+
+.tracker:hover {
+  transform: scale(1.02);
+  cursor: pointer;
+}
